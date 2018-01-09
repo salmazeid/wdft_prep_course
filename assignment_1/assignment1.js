@@ -1,3 +1,5 @@
+
+console.log('Hello World!');
 /*
 Exercise #1
 Create a variable named "numbers" and assign an empty array to it.
